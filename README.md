@@ -132,5 +132,6 @@ La GUI permette di:
 
 ## 👥 Autori
 
-- Francesco Scognamiglio
 - Felice Micillo
+- Francesco Scognamiglio
+
